@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="action_submit">Submit</string>
+    <string name="hint_body">Body</string>
+    <string name="hint_title">Title</string>
+    <string name="title_enter_post">Post Data</string>
+</resources>
